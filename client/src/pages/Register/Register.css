@@ -1,0 +1,81 @@
+.backgroundUno{
+    background:  rgb(41,41,41);
+    width: 85%;
+    margin: 100px auto;
+    height: 300px;
+    border-radius: 10px;
+    opacity: .9;
+}
+
+.already-a-user{ 
+    margin-top: -250px;
+    margin-left: 500px;
+    color:#fff;
+    font-family: 'PT Sans', sans-serif;
+    overflow: hidden;
+   
+}
+
+
+    .already-a-user h2{
+        font-size: 1.5em;
+        text-align: right;
+    }
+
+    .already-a-user p{
+        font-size: 1.2em;
+        text-align: right;
+        color: rgb(197, 197, 197);
+    }
+
+    .already-a-user button{
+        background: none;
+        border-radius: 5px;
+        height: 40px;
+        width: 70px;
+       float: right;
+    }
+    
+    .already-a-user a{
+        padding: 0;
+        color: #fff;
+    }
+
+
+.sign-up-form{
+    background: #fff;
+    height: 340px;
+    margin: -20px 40px;
+    opacity: 1;
+    box-shadow: -1px 7px 21px 0px rgba(50, 50, 50, 0.88);
+    border-radius: 5px;
+}
+
+    .sign-up-form h1{
+        color: #f93b3b;
+        font-weight: lighter;
+        font-size: 2em;
+        padding-top: 10px;
+    }
+
+    .form-style input{
+        width: 100%!important;
+        border: none;
+        border-bottom: 1px solid grey;
+    }
+
+    .sign-up-form button{
+        background: #f93b3b;
+        border:none;
+        float: right;
+        width: 110px;
+    }
+
+    button .signUpbtn{
+        color:white;
+        font-family: 'PT Sans', sans-serif;
+    }
+
+
+
+

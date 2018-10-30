@@ -1,0 +1,63 @@
+.backgroundDos{
+    background: rgb(41, 41, 41);
+    width: 85%;
+    margin: 100px auto;
+    height: 300px;
+    border-radius: 10px;
+    opacity: .9;
+}
+
+.new-user{ 
+    color:#fff;
+    font-family: 'PT Sans', sans-serif;
+    overflow: hidden;
+    margin: 70px auto;
+   
+}
+
+    .new-user h2{
+        color: #fff!important;
+        font-size: 1.5em;
+    }
+
+    .new-user p{
+        font-size: 1.2em;
+        color: rgb(197, 197, 197);
+    }
+
+    .new-user button{
+        background: none;
+        border-radius: 5px;
+        height: 40px;
+        width: 90px;
+    }
+
+    .new-user a{
+        padding: 0;
+        color: #fff;
+    }
+
+.log-in-form{
+    margin:-20px -120px 0 0;
+    float: right;
+    background: #fff;
+    height: 340px;
+    opacity: 1;
+    box-shadow: -1px 7px 21px 0px rgba(50, 50, 50, 0.88);
+    border-radius: 5px;
+}
+
+
+    .log-in-form h1{
+        color: #f93b3b;
+        font-weight: lighter;
+        font-size: 2em;
+        padding-top: 10px;
+    }
+
+    .log-in-form button{
+        background: #f93b3b;
+        border:none;
+        width: 110px;
+        float: right;
+    }

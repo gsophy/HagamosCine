@@ -1,0 +1,50 @@
+.profile-container{
+    background: rgb(41, 41, 41);
+    width: 85%;
+    margin: 60px auto;
+    height: 300px;
+    border-radius: 10px;
+    
+}
+
+
+
+    .white-box{
+        margin:-20px auto;
+        background: #fff;
+        opacity: 1;
+        box-shadow: -1px 7px 21px 0px rgba(50, 50, 50, 0.88);
+        border-radius: 5px;
+    }
+
+        .yei{
+            margin-top: 100px;
+        }
+
+        .boton{
+            margin-left:450px;
+        }
+
+         .boton button{
+            margin-left:-140px;
+            margin-top: 30px;
+            background: #313131;
+            border: none;
+            color: #fff;
+            width:350px;
+        } 
+
+            .boton button .login-next{
+                color: #fff;
+            }
+       
+
+       
+
+
+
+
+
+
+   
+      

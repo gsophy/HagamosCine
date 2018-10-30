@@ -1,0 +1,20 @@
+.barraNavegacion{
+    background: rgb(39, 39, 39);
+    box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.75);
+    font-family: 'PT Sans', sans-serif;
+    color: #fff;
+}   
+
+    .barraNavegacion a{
+        font-family: 'PT Sans', sans-serif;
+        color: #fff;
+        font-weight: lighter;
+       padding-top: 15px;
+    }
+
+    .barraNavegacion a img{
+        margin-top: -15px;
+    }
+
+    
+    
